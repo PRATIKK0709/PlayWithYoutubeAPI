@@ -4,7 +4,7 @@ import time
 
 def fetch_videos(channel_id):
     # Hardcoded YouTube API key
-    api_key = 'API_KEY'
+    api_key = 'API-KEY'
 
     # YouTube Data API endpoint
     endpoint = "https://www.googleapis.com/youtube/v3/search"
