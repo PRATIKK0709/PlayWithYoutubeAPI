@@ -20,3 +20,8 @@ Regarding links, only `https://www.youtube.com/watch?v=dyekggzP3VU` this type of
 
 ## [Most Liked Comments Output Screenshot](https://github.com/PRATIKK0709/PlayWithYoutubeAPI/blob/main/Comments/most-liked-comments.py)
 <img width="1005" alt="Screenshot 2024-04-29 at 7 28 19 PM" src="https://github.com/PRATIKK0709/PlayWithYoutubeAPI/assets/139443204/f158d424-30a5-4569-a499-db0ace002b90">
+
+## [Total Number of comments on every video of a channel](https://github.com/PRATIKK0709/PlayWithYoutubeAPI/blob/main/Comments/TotalNumberOfCommentsPerVideo.py)
+
+<img width="835" alt="Screenshot 2024-04-30 at 5 08 01 AM" src="https://github.com/PRATIKK0709/PlayWithYoutubeAPI/assets/139443204/f8c4219d-0157-4372-8d94-4f1190ad627c">
+
