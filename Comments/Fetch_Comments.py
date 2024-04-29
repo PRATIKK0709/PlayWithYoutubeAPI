@@ -25,8 +25,8 @@ video_input = input("Enter the video ID or video link: ")
 # Extract video ID from input
 video_id = extract_video_id(video_input)
 if video_id is None:
-    print("Invalid video ID or link. Please try again.")
-    exit()
+    # If input is not a valid video ID or link, assume it's a video ID
+    video_id = video_input
 
 request = youtube.commentThreads().list(
     part="snippet",
