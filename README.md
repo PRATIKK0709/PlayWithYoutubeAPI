@@ -53,5 +53,5 @@ That's it! You've successfully generated a YouTube Data API v3 key. You can now 
 
 Basically it is divided into two main category, comments and likes.
 
-## Learn more about contents in Like categroy from [here](https://github.com/PRATIKK0709/PlayWithYoutubeAPI/blob/main/Likes/Likes.md)
-## Learn more about contents in Comment category from [here](https://github.com/PRATIKK0709/PlayWithYoutubeAPI/blob/main/Comments/comments.md)
+-- Learn more about contents in Like categroy from [here](https://github.com/PRATIKK0709/PlayWithYoutubeAPI/blob/main/Likes/Likes.md)
+-- Learn more about contents in Comment category from [here](https://github.com/PRATIKK0709/PlayWithYoutubeAPI/blob/main/Comments/comments.md)
