@@ -13,3 +13,8 @@ This repository is primarily divided into two main categories: Likes and Comment
 
 Feel free to navigate to the respective links to learn more about each category's contents.
 
+## Support
+
+If you find this project useful or interesting, you can support my work by buying me a coffee! Every cup fuels more cool projects like this!
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/PEACE0709)
