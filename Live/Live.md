@@ -11,4 +11,4 @@ Hello, you must be wondering how can you get the live stream id from a live stre
 
 ## [Retriving live chat from a stream ID](https://github.com/PRATIKK0709/PlayWithYoutubeAPI/blob/main/Likes/Likes.md)
 
-![Uploading Screenshot 2024-05-05 at 11.00.50 PM.png…]()
+<img width="1055" alt="Screenshot 2024-05-05 at 11 00 50 PM" src="https://github.com/PRATIKK0709/PlayWithYoutubeAPI/assets/139443204/48bc9247-97e5-4c62-92d6-530f07e6f8d2">
