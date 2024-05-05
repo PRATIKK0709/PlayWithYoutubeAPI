@@ -1,7 +1,6 @@
 import json
 import pytchat
 
-
 def fetch_and_save_live_chat(video_id, output_file):
     chat = pytchat.create(video_id=video_id)
     
