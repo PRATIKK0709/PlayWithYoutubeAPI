@@ -11,6 +11,9 @@ This repository is primarily divided into two main categories: Likes and Comment
 
 - **Comments**: Discover more about the contents in the Comments category [here](https://github.com/PRATIKK0709/PlayWithYoutubeAPI/blob/main/Comments/comments.md).
 
+- **Live**: Discover more about the the contents in Live category [here](https://github.com/PRATIKK0709/PlayWithYoutubeAPI/blob/main/Live/Live.md).
+
+
 Feel free to navigate to the respective links to learn more about each category's contents.
 
 ## Support
